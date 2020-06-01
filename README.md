@@ -8,4 +8,5 @@ Edit the follow list and replace YOUR ACCOUNT with your account name.
 # Requirements
 
 pip install instapy
+
 pip install selenium
